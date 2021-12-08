@@ -438,6 +438,11 @@ footer .footerIkon img{
     right: 300px;
     bottom: 50px;
 }
+@media screen and (min-width:1024px) {
+    .fix {
+        display: none;
+    }
+}
 .fix{
     position: fixed;
     right: 5%;
